@@ -3,7 +3,7 @@
 - 🔭 I’m currently preparing for a software engineering bootcamp
 - 🌱 I’m currently learning the fundamentals of github
 - 💬 Ask me about quaternions
-- ⚡ Fun fact: I can finger-spell stuff (SASL)
+- ⚡ Fun fact: I can finger-spell stuff in SASL
 
 <!--
 **anikavrvo/anikavrvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
