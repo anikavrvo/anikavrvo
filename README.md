@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently undergoing a software engineering bootcamp
+- 🔭 I’m currently undergoing the Graduate Software Engineering Bootcamp @ Entelect
 - 🌱 I’m also currently learning the fundamentals of github
 - 💬 Ask me about quaternions (but not too much)
 - ⚡ Fun fact: I can finger-spell stuff in SASL
