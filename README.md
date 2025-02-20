@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently preparing for a software engineering bootcamp
-- 🌱 I’m currently learning the fundamentals of github
-- 💬 Ask me about quaternions
+- 🔭 I’m currently undergoing a software engineering bootcamp
+- 🌱 I’m also currently learning the fundamentals of github
+- 💬 Ask me about quaternions (but not too much)
 - ⚡ Fun fact: I can finger-spell stuff in SASL
 
 <!--
