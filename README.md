@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently undergoing the Graduate Software Engineering Bootcamp @ Entelect Software
-- 🌱 I’m also currently learning the fundamentals of github
-- 💬 Ask me about quaternions (but not too much)
-- ⚡ Fun fact: I can finger-spell stuff in SASL
+- 🔭 I’m currently toying with the ideas of a configurable Conway GOL and Group Theory puzzle games.
+- 🌱 I’m also currently learning the fundamentals of... essentially every tool I'm using at the moment.
+- 💬 Ask me about quaternions (but not too much).
+- ⚡ Fun fact: I can finger-spell stuff in SASL.
 
 <!--
 **anikavrvo/anikavrvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
